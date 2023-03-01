@@ -6,4 +6,4 @@ Port 8080 is closed('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\nScanning port 21', '\n
 Port 21 is closed('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\nScanning port 22', '\nOn Time: 2022-07-25 13:12:33.818509\nScanning ip 192.168.254.254\n*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
 Port 22 is closed('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\nScanning port 53', '\nOn Time: 2022-07-25 13:12:38.182129\nScanning ip 192.168.254.254\n*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
 Successful connection to port 53('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*\nScanning port 22', '\nOn Time: 2023-03-01 19:33:51.959679\nScanning ip 192.168.254.254\n*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
-Port 22 is closed
+Port 22 is closed ss 

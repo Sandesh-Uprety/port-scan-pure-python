@@ -11,9 +11,9 @@ class App:
     def __init__(self, master):
         self.master = master
         self.master.geometry("1060x540")
-        self.master.title("Port Scanner")
+        self.master.title("Port Scanner")  
         self.master.resizable(False, False)
-        self.master.config(bg="skyblue")
+        self.master.config(bg="skyblue")  
 
         self.frame1_left = Frame(self.master, bg='grey')
         self.frame1_left.place(x=10, y=10, width=380, height=500, )
