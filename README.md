@@ -1,6 +1,7 @@
-This is a port scanner for python.
-wow 
-added line for new-branch 
-amend check
-changes on conflict
-changes to main
+This is a port scanner written purely in python.
+
+Usage:
+python main.py
+or
+python3 main.py
+

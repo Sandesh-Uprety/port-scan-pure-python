@@ -15,6 +15,8 @@ try:
 		result = s.connect_ex((f'{host}',i))
 		if result == 0:
 			print(f"Successful connection to port {i}")
+		else:
+			print(f"No con {i}")
 		s.close()
 
 except KeyboardInterrupt:
